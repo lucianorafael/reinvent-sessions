@@ -40,6 +40,4 @@ Steps to use:
    
    ICS files will be written to the output directory (default `./sessions`).
 
-   *NOTE: Sessions that do not have scheduling details will be dumped to console*
-    
 7. Import the `*.ics` files into the Calendar of your choice.
