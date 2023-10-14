@@ -1,5 +1,7 @@
 # sessions-to-ics
 
+**Updated for 2023!**
+
 This script exports the re:Invent sessions you've flagged as favorites to iCal (.ics) format.
 
 It generates one `.ics` file for each type of session (e.g. Builders Sessions, Workshops, etc.) and an
